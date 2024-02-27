@@ -8,5 +8,5 @@
              s3_bucket            : Amazon S3 bucket
              aws_key_pair         : EC2 key pair
    If you are using more than one provider, you have to mention in a specific resource in specific provider
-   Note: Without resource block, terraform is not going to create resources.
+   Note: Without resource block, terraform is not going to create resources. Any resource block that we create are going to start with the resource  
    
